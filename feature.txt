@@ -1,2 +1,1 @@
 Hello Feature2.
-Bye bye line to be deleted.
